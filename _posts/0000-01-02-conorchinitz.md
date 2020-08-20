@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"My witty aphorism is nothing of the sort."
 Use the left arrow to go back!
